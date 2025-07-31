@@ -68,7 +68,7 @@ Results-driven **Data Analyst** with 1.5+ years of experience in data analytics,
 
 ## 📊 GitHub Stats
 
-![Saurav's GitHub stats](https://github-readme-stats.vercel.app/api?username=aiwithsaurav&show_icons=true&theme=radical)
+![Saurav's GitHub stats](https://github-readme-stats.vercel.app/api?username=aiwithsaurav&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aiwithsaurav&layout=compact&theme=radical)
 
