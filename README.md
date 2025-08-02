@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-Results-driven **Data Analyst** with 1.5+ years of experience in data analytics, visualization, and Python development, with a growing specialization in AI model development and data curation. Skilled in ensuring high data integrity, creating annotation workflows, and applying machine learning concepts to support the development and evaluation of intelligent systems.
+Results-driven **Data Analyst** with 3+ years of experience in data analytics, visualization, and Python development, with a growing specialization in AI model development and data curation. Skilled in ensuring high data integrity, creating annotation workflows, and applying machine learning concepts to support the development and evaluation of intelligent systems.
 
 - 🔭 Currently working as a Data Analyst at **Hectech Solutions**
 - 🌱 Passionate about AI innovation and building data pipelines that power multimodal, cross-domain AI capabilities
