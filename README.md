@@ -46,15 +46,55 @@ Results-driven **Data Analyst** with 3+ years of experience in data analytics, v
 
 ## 🚀 Featured Projects
 
-### 🤖 **Model Training Data Curation** (2024)
-- 📝 Curated and annotated dataset of product reviews for sentiment classification
-- 🐍 Used Python scripts and Label Studio to label and validate over 10,000 text entries
-- ✅ Designed validation workflow to ensure data consistency and factual integrity
+### 🛒 **End-to-End Grocery App** (2025)
+Developed a comprehensive grocery delivery platform with separate interfaces for customers and shopkeepers. Features real-time inventory management, order tracking, payment integration, and analytics dashboard.
+
+**Key Highlights:**
+- Dual console system
+- Real-time order tracking
+- Payment gateway integration
+- Inventory management
+- Analytics dashboard
+
+**Tech Stack:** React, Node.js, MongoDB, Express, Socket.IO, Stripe API, JWT, Material-UI
+
+---
+
+### 💬 **AtherChat - AI Chatbot** (2025)
+Created an intelligent conversational AI chatbot for natural language understanding and contextual responses. Integrated with multiple APIs for weather, news, and general knowledge.
+
+**Key Highlights:**
+- Natural language processing
+- Multi-API integration
+- Sentiment analysis
+- Contextual conversations
+- Real-time responses
+
+**Tech Stack:** Python, OpenAI API, Flask, NLP, TensorFlow, SQLite, WebSocket, React
+
+---
+
+### 🏷️ **Model Training Data Curation** (2024)
+Curated and annotated a dataset of product reviews for sentiment classification using Python and Label Studio, processing over 10,000 text entries.
+
+**Key Highlights:**
+- 10,000+ text entries processed
+- Data validation workflow
+- Sentiment classification
+
+**Tech Stack:** Python, Label Studio, Data Annotation, Sentiment Analysis
+
+---
 
 ### 📊 **Automated Data Analytics Dashboard** (Aug 2024)
-- 🌐 Developed Flask-based web dashboard using Pandas and Plotly
-- 🤖 Automated data fetching, processing, and visualization, reducing manual efforts by 30%
-- 🎨 Designed intuitive UI for real-time analytics
+Developed a Flask-based web dashboard for automated data fetching, processing, and visualization using Pandas and Plotly.
+
+**Key Highlights:**
+- 30% reduction in manual efforts
+- Real-time analytics
+- Intuitive UI design
+
+**Tech Stack:** Flask, Pandas, Plotly, Data Visualization, Automation
 
 ---
 
